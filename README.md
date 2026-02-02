@@ -4,7 +4,7 @@ Building Blocks of a  Privacy respecting digital world
 
 
 **The most powerful code is the code we didn't write.**
-**The second most powerful is the privacy-preserving one **
+**The second most powerful is the privacy-preserving one.**
 
 ---
 
