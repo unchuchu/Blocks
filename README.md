@@ -149,18 +149,6 @@ We need:
 
 ---
 
-## Community
-
-[GitHub Discussions](../../discussions)
-
-Async. Focused. Where the code is.
-
----
-
-## License
-
-MIT. See [LICENSE](LICENSE).
-
 ---
 
 ## Links
